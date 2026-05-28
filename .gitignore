@@ -23,3 +23,11 @@ dist-ssr
 *.sln
 *.sw?
 .env
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
